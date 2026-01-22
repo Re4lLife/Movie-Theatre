@@ -5,7 +5,8 @@ A modern web application to discover and watch the best movie trailers all in on
 ## 🧰 Tech Stack
 - React  
 - CSS  
-- YouTube API  
+- YouTube API
+- OMDB API
 
 ## 🚀 Features
 - Add movies to a "Watch Later" list  
